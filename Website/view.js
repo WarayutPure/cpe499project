@@ -33,9 +33,8 @@ function render(contents){
         <div class="ft-main-item">
             <h2 class="ft-title">Socail</a></h2>
             <ul>
-            <li><a href="#">Facebook</a></li>
-            <li><a href="#">Instagram</a></li>
-            <li><a href="#">Line</a></li>
+            <li><a href="https://www.facebook.com/Warayout.hansuwan13/">Facebook</a></li>
+            <li><a href="https://www.instagram.com/p.pure_wh/">Instagram</a></li>
         </ul>
         </div>
         <div class="ft-main-item">
